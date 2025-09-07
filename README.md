@@ -29,9 +29,9 @@
   - Mini_Projects/  
 
 - **Operating_System/**
-  - Lab_Assignments/  
-  - Theory_Notes/  
-
+  - Lab_Assignments/
+  - Linux command line arg/
+  
 - **Software_Engineering/**
   - Case_Studies/  
 
