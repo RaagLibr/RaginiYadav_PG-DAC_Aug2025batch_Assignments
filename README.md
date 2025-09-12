@@ -41,8 +41,8 @@
 
 ## 📑 Subjects & Index  
 
-- 🔹 [C Programming]([./C_Programming/](https://github.com/RaagLibr/RaginiYadav_PG-DAC_Aug2025batch_Assignments/tree/main/OOPJ))  
-- 🔹 [OOPS with Java](./OOPS_Java/)  
+- 🔹 [C Programming]()  
+- 🔹 [OOPS with Java](./OOPS_Java/](https://github.com/RaagLibr/RaginiYadav_PG-DAC_Aug2025batch_Assignments/tree/main/OOPJ)  
 - 🔹 [Data Structures Using C](./Data_Structures_Using_C/)  
 - 🔹 [Database (SQL)](./Database_SQL/)  
 - 🔹 [Web Programming](./Web_Programming/)  
