@@ -15,15 +15,15 @@
   - Lab_Assignments/  
   - Practice_Codes/  
 
-- **Data_Structures_Using_C/**
+- **ADS/**
   - Lab_Assignments/  
   - Practice_Codes/  
 
-- **Database_SQL/**
+- **DBT/**
   - Lab_Assignments/  
   - Practice_Queries/  
 
-- **Web_Programming/**
+- **WPT/**
   - HTML_CSS_JS/  
   - Lab_Assignments/  
   - Mini_Projects/  
